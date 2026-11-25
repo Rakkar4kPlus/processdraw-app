@@ -1,5 +1,5 @@
 # ProcessDraw
 
-Gebaute App (v0.26). Aufruf: https://rakkar4kplus.github.io/processdraw-app/
+Gebaute App (v0.27). Aufruf: https://rakkar4kplus.github.io/processdraw-app/
 
 Der Quellcode liegt in einem privaten Repository; diese Datei wird daraus erzeugt.
